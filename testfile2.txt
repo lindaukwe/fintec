@@ -9,11 +9,14 @@ Make project directory called  fintech
 	    git init
 	    git config --global user.name "Acada Learning"
 	    git config --global user.email "info@acadalearning"
-
+an 
 	    git config user.name
 	    git config user.email
 	   
 
 	   i a,m testing this new branch to see if i will see the changes made in my master branch after i commit.
+	   
+	   i struggled so hard to connect to my remote repo, it turned out that i needed to refresh my git hub and i immediately got an authentication notification.
+	   let met try and pull from my cli.
 
 
