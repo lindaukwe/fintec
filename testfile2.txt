@@ -12,4 +12,8 @@ Make project directory called  fintech
 
 	    git config user.name
 	    git config user.email
-	    
+	   
+
+	   i a,m testing this new branch to see if i will see the changes made in my master branch after i commit.
+
+
