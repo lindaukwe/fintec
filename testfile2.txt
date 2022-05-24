@@ -1,0 +1,15 @@
+Created an instance
+git --version - No git
+which git - No git
+sudo yum install git -y
+Make project directory called  fintech
+    mkdir fintech
+        cd fintech
+	    ls -la
+	    git init
+	    git config --global user.name "Acada Learning"
+	    git config --global user.email "info@acadalearning"
+
+	    git config user.name
+	    git config user.email
+	    
